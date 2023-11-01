@@ -12,7 +12,7 @@ The package can be installed by adding this to your list of dependencies in `mix
 ```elixir
 def deps do
   [
-    {:dep_from_git, git: "https://github.com/hristo-banchev/terraloc_ingest.git", tag: "v0.1.0"}
+    {:terraloc_ingest, git: "https://github.com/hristo-banchev/terraloc_ingest.git", tag: "v0.1.1"}
   ]
 end
 ```
